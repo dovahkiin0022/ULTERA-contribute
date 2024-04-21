@@ -11,12 +11,12 @@ id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Proper
 4.0,HfMoNbTiZr,BCC,VAM,None,compressive yield strength,EXP,None,298,None,None,Pa,T3,10.3390/e21010015
 5.0,HfMoNbTaZr,BCC,VAM,None,compressive yield strength,EXP,None,298,None,None,Pa,T3,10.3390/e21010015
 6.0,HfMoNbTaTi,BCC,VAM,None,compressive yield strength,EXP,None,298,None,None,Pa,T3,10.3390/e21010015
-None,HfMoNbTaTiZr,BCC,VAM,None,compressive ductility,EXP,None,298,12,None,%,T3,10.3390/e21010015
-None,HfNbTaTiZr,BCC,VAM,None,estimated compressive ductility,EXP,None,298,>50,None,%,T3,10.3390/e21010015
-None,HfMoTaTiZr,BCC,VAM,None,compressive ductility,EXP,None,298,4,None,%,T3,10.3390/e21010015
-None,HfMoNbTiZr,BCC,VAM,None,compressive ductility,EXP,None,298,20,None,%,T3,10.3390/e21010015
-None,HfMoNbTaZr,BCC,VAM,None,compressive ductility,EXP,None,298,16,None,%,T3,10.3390/e21010015
-None,HfMoNbTaTi,BCC,VAM,None,compressive ductility,EXP,None,298,27,None,%,T3,10.3390/e21010015
+None,HfMoNbTaTiZr,BCC,VAM,None,compressive ductility,EXP,None,298,12.0,None,%,T3,10.3390/e21010015
+None,HfNbTaTiZr,BCC,VAM,None,estimated compressive ductility,EXP,None,298,50.0,None,%,T3,10.3390/e21010015
+None,HfMoTaTiZr,BCC,VAM,None,compressive ductility,EXP,None,298,4.0,None,%,T3,10.3390/e21010015
+None,HfMoNbTiZr,BCC,VAM,None,compressive ductility,EXP,None,298,20.0,None,%,T3,10.3390/e21010015
+None,HfMoNbTaZr,BCC,VAM,None,compressive ductility,EXP,None,298,16.0,None,%,T3,10.3390/e21010015
+None,HfMoNbTaTi,BCC,VAM,None,compressive ductility,EXP,None,298,27.0,None,%,T3,10.3390/e21010015
 None,HfMoNbTaTiZr,BCC,VAM,None,compressive yield strength,EXP,None,1073,None,None,Pa,T4,10.3390/e21010015
 None,HfNbTaTiZr,BCC,VAM,None,compressive yield strength,EXP,None,1073,None,None,Pa,T4,10.3390/e21010015
 None,HfMoTaTiZr,BCC,VAM,None,compressive yield strength,EXP,None,1073,None,None,Pa,T4,10.3390/e21010015
@@ -41,8 +41,8 @@ None,NbHfTiV ,BCC,VAM,carbide is FCC - identified to be MC-type; avg. grain siz
 None,NbHfTiVC0.1 ,BCC+carbide,VAM,carbide is FCC - identified to be MC-type,;avg. grain size = 36e-6 meters,compressive yield strength,EXP,None,298,None,None,Pa,F8,10.1016/j.jallcom.2022.166986
 None,NbHfTiVC0.2 ,BCC+carbide,VAM,carbide is FCC - identified to be MC-type; avg. grain size = 30e-6 meters,compressive yield strength,EXP,None,298,None,None,Pa,F8,10.1016/j.jallcom.2022.166986
 None,NbHfTiVC0.3,BCC+carbide,VAM,carbide is FCC - identified to be MC-type; avg. grain size = 25e-6 meters,compressive yield strength,EXP,None,298,None,None,Pa,F8,10.1016/j.jallcom.2022.166986
-None,NbHfTiV ,BCC,VAM,carbide is FCC - identified to be MC-type; avg. grain size = 537e-6 meters,estimated compressive ductility,EXP,None,298,>50,None,%,F8,10.1016/j.jallcom.2022.166986
-None,NbHfTiVC0.1 ,BCC+carbide,VAM,carbide is FCC - identified to be MC-type,;avg. grain size = 36e-6 meters,estimated compressive ductility,EXP,None,298,>50,None,%,F8,10.1016/j.jallcom.2022.166986
+None,NbHfTiV ,BCC,VAM,carbide is FCC - identified to be MC-type; avg. grain size = 537e-6 meters,estimated compressive ductility,EXP,None,298,50.0,None,%,F8,10.1016/j.jallcom.2022.166986
+None,NbHfTiVC0.1 ,BCC+carbide,VAM,carbide is FCC - identified to be MC-type,;avg. grain size = 36e-6 meters,estimated compressive ductility,EXP,None,298,50.0,None,%,F8,10.1016/j.jallcom.2022.166986
 None,NbHfTiVC0.2 ,BCC+carbide,VAM,carbide is FCC - identified to be MC-type; avg. grain size = 30e-6 meters,compressive ductility,EXP,None,298,44.8,None,%,F8,10.1016/j.jallcom.2022.166986
 None,NbHfTiVC0.3,BCC+carbide,VAM,carbide is FCC - identified to be MC-type; avg. grain size = 25e-6 meters,compressive ductility,EXP,None,298,37.8,None,%,F8,10.1016/j.jallcom.2022.166986
 None,NbHfTiV ,BCC,VAM,carbide is FCC - identified to be MC-type; avg. grain size = 537e-6 meters,hardness,EXP,Vickers,298,None,None,Pa,F7,10.1016/j.jallcom.2022.166986
