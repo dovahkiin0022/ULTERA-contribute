@@ -9,7 +9,7 @@ ULTERA Data Templates Repository: [github.com/PhasesResearchLab/ULTERA-contribut
 
    [debnath@psu.edu](mailto:debnath@psu.edu)
 
-- Papers parsed:
+- Addition of new data for ULTERA phase 2
    - Wan 2021 [https://doi.org/10.1016/j.jallcom.2021.161645](https://doi.org/10.1016/j.jallcom.2021.161645)
    - Tseng 2018 [https://doi.org/10.3390/e21010015](https://doi.org/10.3390/e21010015)
    - Tao 2022 [https://doi.org/10.1016/j.jallcom.2022.166986](https://doi.org/10.1016/j.jallcom.2022.166986)
