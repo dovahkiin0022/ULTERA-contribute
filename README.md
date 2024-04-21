@@ -1,13 +1,20 @@
 ULTERA Data Templates Repository: [github.com/PhasesResearchLab/ULTERA-contribute](https://github.com/PhasesResearchLab/ULTERA-contribute)
 
 ## This Dataset
-Parsed by Arindam Debnath, Reinhart Group, Penn State University
+- Arindam Debnath
 
-Papers parsed - 
-1. Wan 2021 [https://doi.org/10.1016/j.jallcom.2021.161645](https://doi.org/10.1016/j.jallcom.2021.161645)
-2. Tseng 2018 [https://doi.org/10.3390/e21010015](https://doi.org/10.3390/e21010015)
-3. Tao 2022 [https://doi.org/10.1016/j.jallcom.2022.166986](https://doi.org/10.1016/j.jallcom.2022.166986)
-4. Cao 2024 [https://doi.org/10.1016/j.ijrmhm.2023.106547](https://doi.org/10.1016/j.ijrmhm.2023.106547)
+   Reinhart Group
+
+   The Pennsylvania State University
+
+   [debnath@psu.edu](mailto:debnath@psu.edu)
+
+
+- Papers parsed 
+      - Wan 2021 [https://doi.org/10.1016/j.jallcom.2021.161645](https://doi.org/10.1016/j.jallcom.2021.161645)
+      - Tseng 2018 [https://doi.org/10.3390/e21010015](https://doi.org/10.3390/e21010015)
+      - Tao 2022 [https://doi.org/10.1016/j.jallcom.2022.166986](https://doi.org/10.1016/j.jallcom.2022.166986)
+      - Cao 2024 [https://doi.org/10.1016/j.ijrmhm.2023.106547](https://doi.org/10.1016/j.ijrmhm.2023.106547)
 
 ## ULTERA Database
 This template repository was developed for contributing to the [**ULTERA Database**](https://ultera.org) carried under the 
