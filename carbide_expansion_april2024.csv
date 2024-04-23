@@ -60,12 +60,12 @@ None,TiZrNbMoV,BCC+BCC+HCP,VAM,avg. grain size = 81e-6 meters ,compressive ducti
 None,Ti1.5ZrNbMoV ,BCC+BCC+HCP,VAM,avg. grain size = 33e-6 meters ,compressive ductility,EXP,None,298,23.2,1.5,%,F7, 10.1016/j.ijrmhm.2023.106547 
 None,Ti2ZrNbMoV ,BCC+BCC+HCP,VAM,avg. grain size = 16e-6 meters ,compressive ductility,EXP,None,298,25.8,3.0,%,F7, 10.1016/j.ijrmhm.2023.106547 
 None,NbMoTaW ,BCC,VAM,None,compressive yield strength,EXP,None,298,None,None,Pa,P3, 10.1016/j.jallcom.2021.161645 
-None,(NbMoTaW)22.5C10,BCC+FCC+HCP,VAM,FCC may be carbide ,compressive yield strength,EXP,None,298,None,None,Pa,P3, 10.1016/j.jallcom.2021.161645 
-None,NbMoTaWC ,BCC+FCC,VAM,FCC may be carbide ,compressive yield strength,EXP,None,298,None,None,Pa,P3, 10.1016/j.jallcom.2021.161645 
-None,(NbMoTaW)17.5C30,BCC+FCC+HCP,VAM,FCC may be carbide ,compressive yield strength,EXP,None,298,None,None,Pa,P3, 10.1016/j.jallcom.2021.161645 
+None,(NbMoTaW)22.5C10,BCC+carbide+HCP,VAM,carbide is FCC; FCC phase fraction increases with carbon content,compressive yield strength,EXP,None,298,None,None,Pa,P3, 10.1016/j.jallcom.2021.161645 
+None,NbMoTaWC ,BCC+carbide,VAM,carbide is FCC,compressive yield strength,EXP,None,298,None,None,Pa,P3, 10.1016/j.jallcom.2021.161645 
+None,(NbMoTaW)17.5C30,BCC+carbide+HCP,VAM,carbide is FCC,compressive yield strength,EXP,None,298,None,None,Pa,P3, 10.1016/j.jallcom.2021.161645 
 None,NbMoTaW ,BCC,VAM,None,ultimate compressive strength,EXP,None,298,None,None,Pa,P3, 10.1016/j.jallcom.2021.161645 
-None,(NbMoTaW)22.5C10,BCC+FCC+HCP,VAM,FCC may be carbide ,ultimate compressive strength,EXP,None,298,None,None,Pa,P3, 10.1016/j.jallcom.2021.161645 
-None,NbMoTaWC ,BCC+FCC,VAM,FCC may be carbide ,ultimate compressive strength,EXP,None,298,None,None,Pa,P3, 10.1016/j.jallcom.2021.161645 
+None,(NbMoTaW)22.5C10,BCC+carbide+HCP,VAM,carbide is FCC,ultimate compressive strength,EXP,None,298,None,None,Pa,P3, 10.1016/j.jallcom.2021.161645 
+None,NbMoTaWC ,BCC+carbide,VAM,carbide is FCC,ultimate compressive strength,EXP,None,298,None,None,Pa,P3, 10.1016/j.jallcom.2021.161645 
 None,NbMoTaW ,BCC,VAM,None,compressive ductility,EXP,None,298,0.9,None,%,P3, 10.1016/j.jallcom.2021.161645 
-None,(NbMoTaW)22.5C10,BCC+FCC+HCP,VAM,FCC may be carbide ,compressive ductility,EXP,None,298,6.5,None,%,P3, 10.1016/j.jallcom.2021.161645 
-None,NbMoTaWC ,BCC+FCC,VAM,FCC may be carbide ,compressive ductility,EXP,None,298,4.6,None,%,P3, 10.1016/j.jallcom.2021.161645 
+None,(NbMoTaW)22.5C10,BCC+carbide+HCP,VAM,carbide is FCC,compressive ductility,EXP,None,298,6.5,None,%,P3, 10.1016/j.jallcom.2021.161645 
+None,NbMoTaWC ,BCC+carbide,VAM,carbide is FCC,compressive ductility,EXP,None,298,4.6,None,%,P3, 10.1016/j.jallcom.2021.161645 
