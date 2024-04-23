@@ -5,67 +5,67 @@ Hand Fetched:,T
 Comment:,None
 
 id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Property Parameters,Temperature [K],Value [SI],Uncertainty [SI],Unit [SI],Pointer,DOI
-1.0,HfMoNbTaTiZr,BCC,VAM,None,compressive yield strength,EXP,None,298,None,None,Pa,T3,10.3390/e21010015
-2.0,HfNbTaTiZr,BCC,VAM,None,compressive yield strength,EXP,None,298,None,None,Pa,T3,10.3390/e21010015
-3.0,HfMoTaTiZr,BCC,VAM,None,compressive yield strength,EXP,None,298,None,None,Pa,T3,10.3390/e21010015
-4.0,HfMoNbTiZr,BCC,VAM,None,compressive yield strength,EXP,None,298,None,None,Pa,T3,10.3390/e21010015
-5.0,HfMoNbTaZr,BCC,VAM,None,compressive yield strength,EXP,None,298,None,None,Pa,T3,10.3390/e21010015
-6.0,HfMoNbTaTi,BCC,VAM,None,compressive yield strength,EXP,None,298,None,None,Pa,T3,10.3390/e21010015
+1.0,HfMoNbTaTiZr,BCC,VAM,None,compressive yield strength,EXP,None,298,1512000000.0,None,Pa,T3,10.3390/e21010015
+2.0,HfNbTaTiZr,BCC,VAM,None,compressive yield strength,EXP,None,298,929000000.0,None,Pa,T3,10.3390/e21010015
+3.0,HfMoTaTiZr,BCC,VAM,None,compressive yield strength,EXP,None,298,1600000000.0,None,Pa,T3,10.3390/e21010015
+4.0,HfMoNbTiZr,BCC,VAM,None,compressive yield strength,EXP,None,298,1351000000.0,None,Pa,T3,10.3390/e21010015
+5.0,HfMoNbTaZr,BCC,VAM,None,compressive yield strength,EXP,None,298,1524000000.0,None,Pa,T3,10.3390/e21010015
+6.0,HfMoNbTaTi,BCC,VAM,None,compressive yield strength,EXP,None,298,1369000000.0,None,Pa,T3,10.3390/e21010015
 None,HfMoNbTaTiZr,BCC,VAM,None,compressive ductility,EXP,None,298,12.0,None,%,T3,10.3390/e21010015
 None,HfNbTaTiZr,BCC,VAM,None,estimated compressive ductility,EXP,None,298,50.0,None,%,T3,10.3390/e21010015
 None,HfMoTaTiZr,BCC,VAM,None,compressive ductility,EXP,None,298,4.0,None,%,T3,10.3390/e21010015
 None,HfMoNbTiZr,BCC,VAM,None,compressive ductility,EXP,None,298,20.0,None,%,T3,10.3390/e21010015
 None,HfMoNbTaZr,BCC,VAM,None,compressive ductility,EXP,None,298,16.0,None,%,T3,10.3390/e21010015
 None,HfMoNbTaTi,BCC,VAM,None,compressive ductility,EXP,None,298,27.0,None,%,T3,10.3390/e21010015
-None,HfMoNbTaTiZr,BCC,VAM,None,compressive yield strength,EXP,None,1073,None,None,Pa,T4,10.3390/e21010015
-None,HfNbTaTiZr,BCC,VAM,None,compressive yield strength,EXP,None,1073,None,None,Pa,T4,10.3390/e21010015
-None,HfMoTaTiZr,BCC,VAM,None,compressive yield strength,EXP,None,1073,None,None,Pa,T4,10.3390/e21010015
-None,HfMoNbTiZr,BCC,VAM,None,compressive yield strength,EXP,None,1073,None,None,Pa,T4,10.3390/e21010015
-None,HfMoNbTaZr,BCC,VAM,None,compressive yield strength,EXP,None,1073,None,None,Pa,T4,10.3390/e21010015
-None,HfMoNbTaTi,BCC,VAM,None,compressive yield strength,EXP,None,1073,None,None,Pa,T4,10.3390/e21010015
-None,HfMoNbTaTiZr,BCC,VAM,None,compressive yield strength,EXP,None,1273,None,None,Pa,T4,10.3390/e21010015
-None,HfNbTaTiZr,BCC,VAM,None,compressive yield strength,EXP,None,1273,None,None,Pa,T4,10.3390/e21010015
-None,HfMoTaTiZr,BCC,VAM,None,compressive yield strength,EXP,None,1273,None,None,Pa,T4,10.3390/e21010015
-None,HfMoNbTiZr,BCC,VAM,None,compressive yield strength,EXP,None,1273,None,None,Pa,T4,10.3390/e21010015
-None,HfMoNbTaZr,BCC,VAM,None,compressive yield strength,EXP,None,1273,None,None,Pa,T4,10.3390/e21010015
-None,HfMoNbTaTi,BCC,VAM,None,compressive yield strength,EXP,None,1273,None,None,Pa,T4,10.3390/e21010015
-None,HfMoNbTaTiZr,BCC,VAM,None,compressive yield strength,EXP,None,1473,None,None,Pa,T4,10.3390/e21010015
-None,HfNbTaTiZr,BCC,VAM,None,compressive yield strength,EXP,None,1473,None,None,Pa,T4,10.3390/e21010015
-None,HfMoTaTiZr,BCC,VAM,None,compressive yield strength,EXP,None,1473,None,None,Pa,T4,10.3390/e21010015
-None,HfMoNbTiZr,BCC,VAM,None,compressive yield strength,EXP,None,1473,None,None,Pa,T4,10.3390/e21010015
-None,HfMoNbTaZr,BCC,VAM,None,compressive yield strength,EXP,None,1473,None,None,Pa,T4,10.3390/e21010015
-None,HfMoNbTaTi,BCC,VAM,None,compressive yield strength,EXP,None,1473,None,None,Pa,T4,10.3390/e21010015
-None,HfMoNbTaZr,BCC,VAM,None,compressive yield strength,EXP,None,1673,None,None,Pa,T4,10.3390/e21010015
-None,HfMoNbTaTi,BCC,VAM,None,compressive yield strength,EXP,None,1673,None,None,Pa,T4,10.3390/e21010015
-None,NbHfTiV ,BCC,VAM,carbide is FCC - identified to be MC-type; avg. grain size = 537e-6 meters,compressive yield strength,EXP,None,298,None,None,Pa,F8,10.1016/j.jallcom.2022.166986
-None,NbHfTiVC0.1 ,BCC+carbide,VAM,carbide is FCC - identified to be MC-type,;avg. grain size = 36e-6 meters,compressive yield strength,EXP,None,298,None,None,Pa,F8,10.1016/j.jallcom.2022.166986
-None,NbHfTiVC0.2 ,BCC+carbide,VAM,carbide is FCC - identified to be MC-type; avg. grain size = 30e-6 meters,compressive yield strength,EXP,None,298,None,None,Pa,F8,10.1016/j.jallcom.2022.166986
-None,NbHfTiVC0.3,BCC+carbide,VAM,carbide is FCC - identified to be MC-type; avg. grain size = 25e-6 meters,compressive yield strength,EXP,None,298,None,None,Pa,F8,10.1016/j.jallcom.2022.166986
+None,HfMoNbTaTiZr,BCC,VAM,None,compressive yield strength,EXP,None,1073,1007000000.0,None,Pa,T4,10.3390/e21010015
+None,HfNbTaTiZr,BCC,VAM,None,compressive yield strength,EXP,None,1073,535000000.0,None,Pa,T4,10.3390/e21010015
+None,HfMoTaTiZr,BCC,VAM,None,compressive yield strength,EXP,None,1073,1045000000.0,None,Pa,T4,10.3390/e21010015
+None,HfMoNbTiZr,BCC,VAM,None,compressive yield strength,EXP,None,1073,829000000.0,None,Pa,T4,10.3390/e21010015
+None,HfMoNbTaZr,BCC,VAM,None,compressive yield strength,EXP,None,1073,1005000000.0,None,Pa,T4,10.3390/e21010015
+None,HfMoNbTaTi,BCC,VAM,None,compressive yield strength,EXP,None,1073,822000000.0,None,Pa,T4,10.3390/e21010015
+None,HfMoNbTaTiZr,BCC,VAM,None,compressive yield strength,EXP,None,1273,814000000.0,None,Pa,T4,10.3390/e21010015
+None,HfNbTaTiZr,BCC,VAM,None,compressive yield strength,EXP,None,1273,295000000.0,None,Pa,T4,10.3390/e21010015
+None,HfMoTaTiZr,BCC,VAM,None,compressive yield strength,EXP,None,1273,855000000.0,None,Pa,T4,10.3390/e21010015
+None,HfMoNbTiZr,BCC,VAM,None,compressive yield strength,EXP,None,1273,721000000.0,None,Pa,T4,10.3390/e21010015
+None,HfMoNbTaZr,BCC,VAM,None,compressive yield strength,EXP,None,1273,927000000.0,None,Pa,T4,10.3390/e21010015
+None,HfMoNbTaTi,BCC,VAM,None,compressive yield strength,EXP,None,1273,778000000.0,None,Pa,T4,10.3390/e21010015
+None,HfMoNbTaTiZr,BCC,VAM,None,compressive yield strength,EXP,None,1473,556000000.0,None,Pa,T4,10.3390/e21010015
+None,HfNbTaTiZr,BCC,VAM,None,compressive yield strength,EXP,None,1473,92000000.0,None,Pa,T4,10.3390/e21010015
+None,HfMoTaTiZr,BCC,VAM,None,compressive yield strength,EXP,None,1473,404000000.0,None,Pa,T4,10.3390/e21010015
+None,HfMoNbTiZr,BCC,VAM,None,compressive yield strength,EXP,None,1473,301000000.0,None,Pa,T4,10.3390/e21010015
+None,HfMoNbTaZr,BCC,VAM,None,compressive yield strength,EXP,None,1473,694000000.0,None,Pa,T4,10.3390/e21010015
+None,HfMoNbTaTi,BCC,VAM,None,compressive yield strength,EXP,None,1473,699000000.0,None,Pa,T4,10.3390/e21010015
+None,HfMoNbTaZr,BCC,VAM,None,compressive yield strength,EXP,None,1673,278000000.0,None,Pa,T4,10.3390/e21010015
+None,HfMoNbTaTi,BCC,VAM,None,compressive yield strength,EXP,None,1673,367000000.0,None,Pa,T4,10.3390/e21010015
+None,NbHfTiV ,BCC,VAM,carbide is FCC - identified to be MC-type; avg. grain size = 537e-6 meters,compressive yield strength,EXP,None,298,958000000.0,None,Pa,F8,10.1016/j.jallcom.2022.166986
+None,NbHfTiVC0.1 ,BCC+carbide,VAM,carbide is FCC - identified to be MC-type,;avg. grain size = 36e-6 meters,compressive yield strength,EXP,None,298,1048000000.0,None,Pa,F8,10.1016/j.jallcom.2022.166986
+None,NbHfTiVC0.2 ,BCC+carbide,VAM,carbide is FCC - identified to be MC-type; avg. grain size = 30e-6 meters,compressive yield strength,EXP,None,298,1076000000.0,None,Pa,F8,10.1016/j.jallcom.2022.166986
+None,NbHfTiVC0.3,BCC+carbide,VAM,carbide is FCC - identified to be MC-type; avg. grain size = 25e-6 meters,compressive yield strength,EXP,None,298,1115000000.0,None,Pa,F8,10.1016/j.jallcom.2022.166986
 None,NbHfTiV ,BCC,VAM,carbide is FCC - identified to be MC-type; avg. grain size = 537e-6 meters,estimated compressive ductility,EXP,None,298,50.0,None,%,F8,10.1016/j.jallcom.2022.166986
 None,NbHfTiVC0.1 ,BCC+carbide,VAM,carbide is FCC - identified to be MC-type,;avg. grain size = 36e-6 meters,estimated compressive ductility,EXP,None,298,50.0,None,%,F8,10.1016/j.jallcom.2022.166986
 None,NbHfTiVC0.2 ,BCC+carbide,VAM,carbide is FCC - identified to be MC-type; avg. grain size = 30e-6 meters,compressive ductility,EXP,None,298,44.8,None,%,F8,10.1016/j.jallcom.2022.166986
 None,NbHfTiVC0.3,BCC+carbide,VAM,carbide is FCC - identified to be MC-type; avg. grain size = 25e-6 meters,compressive ductility,EXP,None,298,37.8,None,%,F8,10.1016/j.jallcom.2022.166986
-None,NbHfTiV ,BCC,VAM,carbide is FCC - identified to be MC-type; avg. grain size = 537e-6 meters,hardness,EXP,Vickers,298,None,None,Pa,F7,10.1016/j.jallcom.2022.166986
-None,NbHfTiVC0.1 ,BCC+carbide,VAM,carbide is FCC - identified to be MC-type,;avg. grain size = 36e-6 meters,hardness,EXP,Vickers,298,None,None,Pa,F7,10.1016/j.jallcom.2022.166986
-None,NbHfTiVC0.2 ,BCC+carbide,VAM,carbide is FCC - identified to be MC-type; avg. grain size = 30e-6 meters,hardness,EXP,Vickers,298,None,None,Pa,F7,10.1016/j.jallcom.2022.166986
-None,NbHfTiVC0.3,BCC+carbide,VAM,carbide is FCC - identified to be MC-type; avg. grain size = 25e-6 meters,hardness,EXP,Vickers,298,None,None,Pa,F7,10.1016/j.jallcom.2022.166986
-None,Nb22.69Hf25.57Ti25.80V25.94,BCC,VAM,matrix phase composition of NbHfTiV  ,nanohardness,EXP,nanohardness,298,None,None,Pa,F7,10.1016/j.jallcom.2022.166986
-None,Nb25.81Hf23.80Ti22.48V25.07C2.84,BCC,VAM,matrix phase composition of NbHfTiVC0.1  ,nanohardness,EXP,nanohardness,298,None,None,Pa,F7,10.1016/j.jallcom.2022.166986
-None,Nb24.15Hf20.54Ti26.55V26.47C2.29,BCC,VAM,matrix phase composition of NbHfTiVC0.2  ,nanohardness,EXP,nanohardness,298,None,None,Pa,F7,10.1016/j.jallcom.2022.166986
-None,Nb23.89Hf19.32Ti27.60V27.52C1.68 ,BCC,VAM,matrix phase composition of NbHfTiVC0.3  ,nanohardness,EXP,nanohardness,298,None,None,Pa,F7,10.1016/j.jallcom.2022.166986
-None,TiZrNbMoV,BCC+BCC+HCP,VAM,avg. grain size = 81e-6 meters ,compressive yield strength,EXP,None,298,None,50.0,Pa,F7, 10.1016/j.ijrmhm.2023.106547 
-None,Ti1.5ZrNbMoV ,BCC+BCC+HCP,VAM,avg. grain size = 33e-6 meters ,compressive yield strength,EXP,None,298,None,100.0,Pa,F7, 10.1016/j.ijrmhm.2023.106547 
-None,Ti2ZrNbMoV ,BCC+BCC+HCP,VAM,avg. grain size = 16e-6 meters ,compressive yield strength,EXP,None,298,None,50.0,Pa,F7, 10.1016/j.ijrmhm.2023.106547 
+None,NbHfTiV ,BCC,VAM,carbide is FCC - identified to be MC-type; avg. grain size = 537e-6 meters,hardness,EXP,Vickers,298,3197000000.0,None,Pa,F7,10.1016/j.jallcom.2022.166986
+None,NbHfTiVC0.1 ,BCC+carbide,VAM,carbide is FCC - identified to be MC-type,;avg. grain size = 36e-6 meters,hardness,EXP,Vickers,298,3737000000.0,None,Pa,F7,10.1016/j.jallcom.2022.166986
+None,NbHfTiVC0.2 ,BCC+carbide,VAM,carbide is FCC - identified to be MC-type; avg. grain size = 30e-6 meters,hardness,EXP,Vickers,298,4021000000.0,None,Pa,F7,10.1016/j.jallcom.2022.166986
+None,NbHfTiVC0.3,BCC+carbide,VAM,carbide is FCC - identified to be MC-type; avg. grain size = 25e-6 meters,hardness,EXP,Vickers,298,4482000000.0,None,Pa,F7,10.1016/j.jallcom.2022.166986
+None,Nb22.69Hf25.57Ti25.80V25.94,BCC,VAM,matrix phase composition of NbHfTiV  ,nanohardness,EXP,nanohardness,298,8150000000.0,None,Pa,F7,10.1016/j.jallcom.2022.166986
+None,Nb25.81Hf23.80Ti22.48V25.07C2.84,BCC,VAM,matrix phase composition of NbHfTiVC0.1  ,nanohardness,EXP,nanohardness,298,7850000000.0,None,Pa,F7,10.1016/j.jallcom.2022.166986
+None,Nb24.15Hf20.54Ti26.55V26.47C2.29,BCC,VAM,matrix phase composition of NbHfTiVC0.2  ,nanohardness,EXP,nanohardness,298,7010000000.0,None,Pa,F7,10.1016/j.jallcom.2022.166986
+None,Nb23.89Hf19.32Ti27.60V27.52C1.68 ,BCC,VAM,matrix phase composition of NbHfTiVC0.3  ,nanohardness,EXP,nanohardness,298,6940000000.0,None,Pa,F7,10.1016/j.jallcom.2022.166986
+None,TiZrNbMoV,BCC+BCC+HCP,VAM,avg. grain size = 81e-6 meters ,compressive yield strength,EXP,None,298,2222000000.0,50.0,Pa,F7, 10.1016/j.ijrmhm.2023.106547 
+None,Ti1.5ZrNbMoV ,BCC+BCC+HCP,VAM,avg. grain size = 33e-6 meters ,compressive yield strength,EXP,None,298,1691000000.0,100.0,Pa,F7, 10.1016/j.ijrmhm.2023.106547 
+None,Ti2ZrNbMoV ,BCC+BCC+HCP,VAM,avg. grain size = 16e-6 meters ,compressive yield strength,EXP,None,298,1588000000.0,50.0,Pa,F7, 10.1016/j.ijrmhm.2023.106547 
 None,TiZrNbMoV,BCC+BCC+HCP,VAM,avg. grain size = 81e-6 meters ,compressive ductility,EXP,None,298,20.5,0.5,%,F7, 10.1016/j.ijrmhm.2023.106547 
 None,Ti1.5ZrNbMoV ,BCC+BCC+HCP,VAM,avg. grain size = 33e-6 meters ,compressive ductility,EXP,None,298,23.2,1.5,%,F7, 10.1016/j.ijrmhm.2023.106547 
 None,Ti2ZrNbMoV ,BCC+BCC+HCP,VAM,avg. grain size = 16e-6 meters ,compressive ductility,EXP,None,298,25.8,3.0,%,F7, 10.1016/j.ijrmhm.2023.106547 
-None,NbMoTaW ,BCC,VAM,None,compressive yield strength,EXP,None,298,None,None,Pa,P3, 10.1016/j.jallcom.2021.161645 
-None,(NbMoTaW)22.5C10,BCC+carbide+HCP,VAM,carbide is FCC; FCC phase fraction increases with carbon content,compressive yield strength,EXP,None,298,None,None,Pa,P3, 10.1016/j.jallcom.2021.161645 
-None,NbMoTaWC ,BCC+carbide,VAM,carbide is FCC,compressive yield strength,EXP,None,298,None,None,Pa,P3, 10.1016/j.jallcom.2021.161645 
-None,(NbMoTaW)17.5C30,BCC+carbide+HCP,VAM,carbide is FCC,compressive yield strength,EXP,None,298,None,None,Pa,P3, 10.1016/j.jallcom.2021.161645 
-None,NbMoTaW ,BCC,VAM,None,ultimate compressive strength,EXP,None,298,None,None,Pa,P3, 10.1016/j.jallcom.2021.161645 
-None,(NbMoTaW)22.5C10,BCC+carbide+HCP,VAM,carbide is FCC,ultimate compressive strength,EXP,None,298,None,None,Pa,P3, 10.1016/j.jallcom.2021.161645 
-None,NbMoTaWC ,BCC+carbide,VAM,carbide is FCC,ultimate compressive strength,EXP,None,298,None,None,Pa,P3, 10.1016/j.jallcom.2021.161645 
+None,NbMoTaW ,BCC,VAM,None,compressive yield strength,EXP,None,298,1042000000.0,None,Pa,P3, 10.1016/j.jallcom.2021.161645 
+None,(NbMoTaW)22.5C10,BCC+carbide+HCP,VAM,carbide is FCC; FCC phase fraction increases with carbon content,compressive yield strength,EXP,None,298,1285000000.0,None,Pa,P3, 10.1016/j.jallcom.2021.161645 
+None,NbMoTaWC ,BCC+carbide,VAM,carbide is FCC; FCC phase fraction increases with carbon content,compressive yield strength,EXP,None,298,1753000000.0,None,Pa,P3, 10.1016/j.jallcom.2021.161645 
+None,(NbMoTaW)17.5C30,BCC+carbide+HCP,VAM,carbide is FCC; FCC phase fraction increases with carbon content,compressive yield strength,EXP,None,298,1972000000.0,None,Pa,P3, 10.1016/j.jallcom.2021.161645 
+None,NbMoTaW ,BCC,VAM,None,ultimate compressive strength,EXP,None,298,1059000000.0,None,Pa,P3, 10.1016/j.jallcom.2021.161645 
+None,(NbMoTaW)22.5C10,BCC+carbide+HCP,VAM,carbide is FCC; FCC phase fraction increases with carbon content,ultimate compressive strength,EXP,None,298,2241000000.0,None,Pa,P3, 10.1016/j.jallcom.2021.161645 
+None,NbMoTaWC ,BCC+carbide,VAM,carbide is FCC; FCC phase fraction increases with carbon content,ultimate compressive strength,EXP,None,298,2706000000.0,None,Pa,P3, 10.1016/j.jallcom.2021.161645 
 None,NbMoTaW ,BCC,VAM,None,compressive ductility,EXP,None,298,0.9,None,%,P3, 10.1016/j.jallcom.2021.161645 
-None,(NbMoTaW)22.5C10,BCC+carbide+HCP,VAM,carbide is FCC,compressive ductility,EXP,None,298,6.5,None,%,P3, 10.1016/j.jallcom.2021.161645 
-None,NbMoTaWC ,BCC+carbide,VAM,carbide is FCC,compressive ductility,EXP,None,298,4.6,None,%,P3, 10.1016/j.jallcom.2021.161645 
+None,(NbMoTaW)22.5C10,BCC+carbide+HCP,VAM,carbide is FCC; FCC phase fraction increases with carbon content,compressive ductility,EXP,None,298,6.5,None,%,P3, 10.1016/j.jallcom.2021.161645 
+None,NbMoTaWC ,BCC+carbide,VAM,carbide is FCC; FCC phase fraction increases with carbon content,compressive ductility,EXP,None,298,4.6,None,%,P3, 10.1016/j.jallcom.2021.161645 
